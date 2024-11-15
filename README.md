@@ -57,6 +57,7 @@ endmodule
 ![image](https://github.com/user-attachments/assets/50965e17-f5e8-45c8-a42e-345dc314948a)
 
 
+
 # Testbench for Swapping Three Numbers:
 
 ```
@@ -105,6 +106,8 @@ module swap_three_numbers_tb;
     end
 endmodule
 ```
+
+
 
 # Output
 
